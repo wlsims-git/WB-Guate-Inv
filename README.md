@@ -1,5 +1,5 @@
 # WB-Guate-Inv
-Analysis of the allocation of World Bank investment in Guatemala
+## Analysis of the allocation of World Bank investment in Guatemala
 
 This repository provides documentation of the Stata analysis for my paper _Is World Bank Investment in Guatemala Responsive to Departmental Needs?_ 
 
