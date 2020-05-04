@@ -1,0 +1,123 @@
+StataFileTM:00001:01100:GREC:                          :
+00005:00004:00001:
+*! classname: twowaygraph_g
+*! family: twoway
+*! date: 25 Apr 2019
+*! time: 11:07:27
+*! graph_scheme: s1mono
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.plotregion1.AddTextBox added_text editor 17.14314271291869 -90.2193869722614
+.plotregion1.added_text_new = 3
+.plotregion1.added_text_rec = 4
+.plotregion1.added_text[4].style.editstyle  angle(default) size(small) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(thin) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[4].text = {}
+.plotregion1.added_text[4].text.Arrpush Petén
+// editor text[4] edits
+
+.plotregion1.AddTextBox added_text editor 16.20170423414309 -91.76334592660838
+.plotregion1.added_text_new = 4
+.plotregion1.added_text_rec = 5
+.plotregion1.added_text[5].style.editstyle  angle(default) size(small) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(thin) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[5].text = {}
+.plotregion1.added_text[5].text.Arrpush Totonicapán
+// editor text[5] edits
+
+.plotregion1.AddTextBox added_text editor 13.96735691118234 -92.17757881679903
+.plotregion1.added_text_new = 5
+.plotregion1.added_text_rec = 6
+.plotregion1.added_text[6].style.editstyle  angle(default) size(small) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(thin) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[6].text = {}
+.plotregion1.added_text[6].text.Arrpush Sacatepéquez
+// editor text[6] edits
+
+.plotregion1.AddTextBox added_text editor 14.16192086346263 -91.04785275264271
+.plotregion1.added_text_new = 6
+.plotregion1.added_text_rec = 7
+.plotregion1.added_text[7].style.editstyle  angle(default) size(small) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(thin) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[7].text = {}
+.plotregion1.added_text[7].text.Arrpush Escuintla
+// editor text[7] edits
+
+.plotregion1.AddTextBox added_text editor 14.21840717218917 -90.4955422323885
+.plotregion1.added_text_new = 7
+.plotregion1.added_text_rec = 8
+.plotregion1.added_text[8].style.editstyle  angle(default) size(small) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(thin) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[8].text = {}
+.plotregion1.added_text[8].text.Arrpush Santa
+// editor text[8] edits
+
+.plotregion1.AddTextBox added_text editor 14.09915829821092 -90.51437100012444
+.plotregion1.added_text_new = 8
+.plotregion1.added_text_rec = 9
+.plotregion1.added_text[9].style.editstyle  angle(default) size(small) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(thin) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[9].text = {}
+.plotregion1.added_text[9].text.Arrpush Rosa
+// editor text[9] edits
+
+.plotregion1.AddTextBox added_text editor 14.28744599396604 -90.07503308628588
+.plotregion1.added_text_new = 9
+.plotregion1.added_text_rec = 10
+.plotregion1.added_text[10].style.editstyle  angle(default) size(small) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(thin) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[10].text = {}
+.plotregion1.added_text[10].text.Arrpush Jutiapa
+// editor text[10] edits
+
+.plotregion1.AddTextBox added_text editor 15.19122693359062 -92.03322493082349
+.plotregion1.added_text_new = 10
+.plotregion1.added_text_rec = 11
+.plotregion1.added_text[11].style.editstyle  angle(default) size(small) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(thin) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[11].text = {}
+.plotregion1.added_text[11].text.Arrpush San
+// editor text[11] edits
+
+.plotregion1.AddTextBox added_text editor 15.0657018030872 -92.07715872220736
+.plotregion1.added_text_new = 11
+.plotregion1.added_text_rec = 12
+.plotregion1.added_text[12].style.editstyle  angle(default) size(small) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(thin) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[12].text = {}
+.plotregion1.added_text[12].text.Arrpush Marcos
+// editor text[12] edits
+
+.plotregion1.AddLine added_lines editor -91.47463815465731 16.12011289931588 -91.36166554824167 15.05942554656204
+.plotregion1.added_lines_new = 1
+.plotregion1.added_lines_rec = 1
+.plotregion1.added_lines[1].style.editstyle  linestyle( width(thin) color(black) pattern(solid) align(inside)) headstyle( symbol(circle) linestyle( width(thin) color(black) pattern(solid) align(inside)) fillcolor(black) size(medium) angle(stdarrow) symangle(zero) backsymbol(none) backline( width(thin) color(black) pattern(solid) align(inside)) backcolor(black) backsize(zero) backangle(stdarrow) backsymangle(zero)) headpos(neither) editcopy
+// edits
+
+.plotregion1.AddLine added_lines editor -90.77169749251561 14.50711497234701 -91.50601943421722 13.94852814160682
+.plotregion1.added_lines_new = 2
+.plotregion1.added_lines_rec = 2
+.plotregion1.added_lines[2].style.editstyle  linestyle( width(thin) color(black) pattern(solid) align(inside)) headstyle( symbol(circle) linestyle( width(thin) color(black) pattern(solid) align(inside)) fillcolor(black) size(medium) angle(stdarrow) symangle(zero) backsymbol(none) backline( width(thin) color(black) pattern(solid) align(inside)) backcolor(black) backsize(zero) backangle(stdarrow) backsymangle(zero)) headpos(neither) editcopy
+// edits
+
+.plotregion1.added_text[6].DragBy .0062762565251707 -.1192488623276115
+// editor text[6] reposition
+
+.plotregion1.added_text[6].DragBy -.0251050261006826 .0188287677359387
+// editor text[6] reposition
+
+.plotregion1.added_text[7].DragBy -.0313812826258533 -.0815913268557335
+// editor text[7] reposition
+
+.plotregion1.added_text[9].DragBy 0 .050210047295837
+// editor text[9] reposition
+
+.plotregion1.added_text[12].DragBy -.0690388217768774 0
+// editor text[12] reposition
+
+.plotregion1.added_text[11].DragBy -.0439337956761945 0
+// editor text[11] reposition
+
+.plotregion1.added_text[11].DragBy -.0125525130503412 .0125525118239592
+// editor text[11] reposition
+
+.plotregion1.added_text[7].DragBy -.0439337956761945 -.0188287677359389
+// editor text[7] reposition
+
+
+// <end>
